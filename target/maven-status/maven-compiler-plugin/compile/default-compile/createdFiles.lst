@@ -1,0 +1,10 @@
+com\hangman\view\DessinPendu.class
+com\hangman\view\EcranAccueil.class
+com\hangman\model\Joueur.class
+com\hangman\view\GestionnaireSons.class
+com\hangman\controller\GameController.class
+com\hangman\view\EcranJeu.class
+com\hangman\model\Partie.class
+com\hangman\model\BaseDeDonnees.class
+com\hangman\HangmanGame.class
+com\hangman\model\Mot.class
